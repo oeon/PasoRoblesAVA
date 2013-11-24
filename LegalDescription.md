@@ -1,10 +1,13 @@
-```
-§9.84   Paso Robles.
-(a) Name. The name of the viticultural area described in this section is “Paso Robles”.
+[source](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr;sid=bff700d0bbb2a632948b70fe7e91d7d4;rgn=div5;view=text;node=27%3A1.0.1.1.7;idno=27;cc=ecfr#27:1.0.1.1.7.3.41.64)
 
-(b) Approved Map. The appropriate map for determining the boundary of the Paso Robles viticultural area is the United States Geological Survey 1:250,000-scale map of San Luis Obispo, California, 1956, revised 1969, shoreline revised and bathymetry added 1979.
+### §9.84   Paso Robles.  
 
-(c) Boundaries. The Paso Robles viticultural area is located within San Luis Obispo County, California. From the point of beginning where the county lines of San Luis Obispo, Kings and Kern Counties converge, the county line also being the township line between T.24S. and T.25S., in R.16E.:
+(a) Name. The name of the viticultural area described in this section is “Paso Robles”.  
+
+(b) Approved Map. The appropriate map for determining the boundary of the Paso Robles viticultural area is the United States Geological Survey 1:250,000-scale map of San Luis Obispo, California, 1956, revised 1969, shoreline revised and bathymetry added 1979.  
+
+(c) Boundaries. The Paso Robles viticultural area is located within San Luis Obispo County, California. From the point of beginning where the county lines of San Luis Obispo, Kings and Kern Counties converge, the county line also being the township line between T.24S. and T.25S., in R.16E.:  
+
 
 (1) Then in a westerly direction along this county line for 42 miles to the range line between R.9E. and R.10E.;
 
