@@ -26,6 +26,32 @@
           35.79262
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.94393,
+          35.61752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.85766,
+          35.57941
+        ]
+      }
     }
   ]
 }
