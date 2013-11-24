@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "pt_id": "c"
+        "pt_id": "c",
+        "description": "From the point of beginning where the county lines of San Luis Obispo, Kings and Kern Counties converge, the county line also being the township line between T.24S. and T.25S., in R.16E."
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "pt_id": 1
+        "pt_id": 1,
+        "description": "Then in a westerly direction along this county line for 42 miles to the range line between R.9E. and R.10E."
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,8 @@
     {
       "type": "Feature",
       "properties": {
-        "pt_id": 2
+        "pt_id": 2,
+        "description": "Then in a southerly direction for 12 miles along the range line to the southwest of corner of T.26S. and R.10E."
       },
       "geometry": {
         "type": "Point",
@@ -43,13 +46,28 @@
     {
       "type": "Feature",
       "properties": {
-        "pt_id": 3
+        "pt_id": 3,
+        "description": "Then in a southeasterly direction, approximately 5.5 miles to a point of intersection of the Dover Canyon Jeep Trail and Dover Canyon Road"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -120.85766,
           35.57941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 4,
+        "description": "Then in an easterly direction along Dover Canyon Road, approximately 1.5 miles, to the western border line of Rancho Paso de Robles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.83224,
+          35.58147
         ]
       }
     }
