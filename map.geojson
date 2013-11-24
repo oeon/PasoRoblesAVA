@@ -98,6 +98,62 @@
           35.35344
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 7,
+        "description": "easterly direction along the T.29S. and T.30S. line for approximately 3.1 miles to its intersection with the eastern boundary line of the Los Padres National Forest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57742,
+          35.35301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 8,
+        "description": "southeasterly direction along the eastern boundary line of the Los Padres National Forest for approximately 4.1 miles to its intersection with the R.13E. and R.14E. line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.52371,
+          35.31586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 9,
+        "description": "northerly direction along the R.13E. and R.14E. line for approximately 8.7 miles to its intersection with the T.28S. and T.29S. line"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.52327,
+          35.44041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 10,
+        "description": "easterly direction for approximately 18 miles to the range line between R.16E. and R.17E."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.19451,
+          35.43992
+        ]
+      }
     }
   ]
 }
