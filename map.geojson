@@ -70,6 +70,20 @@
           35.58147
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pt_id": 5,
+        "description": "Then, following the border of the Paso Robles land grant, beginning in an easterly direction, to a point where it intersects the range line between R.11E. and R.12E."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73042,
+          35.58663
+        ]
+      }
     }
   ]
 }
